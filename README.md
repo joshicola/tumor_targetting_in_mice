@@ -43,3 +43,6 @@ hydroxyglutarate.
 microdialysis studies have targeted expected tumor locations without validation.
 Conclusions: The new method offers a streamlined and freely available workflow in 3D slicer to optimize and
 validate microdialysis probe placement within a murine brain tumor.
+
+## Data Availability
+For data associated with the paper, please defer to the corresponding author of the paper.
