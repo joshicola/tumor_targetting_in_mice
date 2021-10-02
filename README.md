@@ -14,6 +14,8 @@ This 3D Slicer medical record bundle ([mrb](https://www.slicer.org/wiki/Document
  * Control Mouse CT
  * Fixed Fiducials for Bregma and Lamda
  * Movable Fiducials for a Tumor Center
+ * Model Catheter (2 mm tip)
+ * Model Catheter (3 mm tip)
 
 The MRB file is formulated for 3D Slicer v4.11.
 
